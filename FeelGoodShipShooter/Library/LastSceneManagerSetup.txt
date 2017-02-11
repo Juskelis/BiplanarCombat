@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/My Assets/Scenes/no_player.unity
+  isLoaded: 1
+  isActive: 1
